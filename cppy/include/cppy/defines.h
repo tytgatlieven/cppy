@@ -10,7 +10,7 @@
 #include <Python.h>
 
 #define CPPY_MAJOR_VERSION 1
-#define CPPY_MINOR_VERSION 1
-#define CPPY_PATCH_VERSION 0
+#define CPPY_MINOR_VERSION 2
+#define CPPY_PATCH_VERSION 1.dev0
 
-#define CPPY_VERSION "1.1.0"
+#define CPPY_VERSION "1.2.1.dev0"
